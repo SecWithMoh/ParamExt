@@ -57,7 +57,7 @@ if __name__ == "__main__":
     print(" |_|    \__,_||_|   \__,_||_| |_| |_||_____|/_/\_\ \__|(_)| .__/  \__, |")
     print("                                                          |_|     |___/ ")
     print("         Offline Query String Parameter Extractor From URL")
-    print("                 https://github.com/BbhunterOne")
+    print("                 https://github.com/SecWithMoh")
     print("")
     print("")
     print("----------------------------------------------------------------------")
