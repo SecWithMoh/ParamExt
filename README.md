@@ -24,7 +24,7 @@ sudo apt install golang-go
 
 go get -u github.com/tomnomnom/unfurl
 
-git clone https://github.com/BbhunterOne/ParamExt.git
+git clone https://github.com/SecWithMoh/ParamExt.git
 
 cd ParamExt
 
